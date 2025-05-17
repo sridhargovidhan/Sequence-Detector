@@ -1,6 +1,6 @@
 # Sequence-Detector
-# NAME : MOHAMMED SHAHITH S
-# REG NO: 212223060162
+# NAME : SRIDHAR G
+# REG NO: 212223060271
 
 ## 1.Aim
 
